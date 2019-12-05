@@ -2,5 +2,5 @@
 
 void afficherFete(){
 
-	printf("La fête des lumières commence demain \n");
+	printf("La fête  des lumières commence demain \n");
 }
