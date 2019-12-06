@@ -3,7 +3,8 @@
 void afficherVoeux();
 void afficherFete();
 
-void main(){
+int main(){
 	afficherFete();
 	afficherVoeux();
+	return 0;
 }
